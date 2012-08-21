@@ -98,4 +98,4 @@ haunt:
 	@haunt .issue-guidelines.js https://github.com/twitter/bootstrap
 
 
-.PHONY: docs watch gh-pages
+.PHONY: docs watch gh-pages bootstrap
